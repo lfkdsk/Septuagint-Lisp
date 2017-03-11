@@ -1,2 +1,1 @@
 # Septuagint-Lisp
-Lisp Paser
